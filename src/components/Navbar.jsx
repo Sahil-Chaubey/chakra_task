@@ -23,7 +23,7 @@ export default function Navbar() {
       <Spacer />
 
       <HStack spacing={"20px"}>
-        <Avatar src="/public/img/mario.png" >
+        <Avatar src="/img/mario.png" >
           <AvatarBadge w={"1.3em"} bg={"teal.500"}>
             <Text fontSize={"x-small"} color={"white"}>3</Text>
 
