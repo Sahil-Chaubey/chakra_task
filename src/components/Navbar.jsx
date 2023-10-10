@@ -29,7 +29,7 @@ export default function Navbar() {
 
           </AvatarBadge>
         </Avatar>
-        <Text>shesah0319@gmail.com</Text>
+        <Text>sahilchaubey25@gmail.com</Text>
         <Button colorScheme="purple" onClick={showtoast}>Logout</Button>
       </HStack>
     </Flex>
